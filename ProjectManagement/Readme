@@ -1,0 +1,27 @@
+# Task and Project Management System
+
+## Overview
+
+This is a Task and Project Management System built with ASP.NET Core and React. It allows users to create, manage, and track projects and tasks efficiently.
+
+## Features
+
+- **Project Management**: Create, read, update, and delete projects.
+- **Task Management**: Create, read, update, and delete tasks associated with projects.
+- **Overdue Task Tracking**: Identify tasks that are overdue based on their end dates.
+- **Role-Based Access Control**: Manage tasks and projects based on user roles (e.g., Manager).
+
+## Technologies Used
+
+- ASP.NET Core for the backend API
+- Entity Framework Core for database operations
+- React for the frontend interface
+- Material-UI for UI components
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/project-management-system.git
+   cd project-management-system
+   ```
